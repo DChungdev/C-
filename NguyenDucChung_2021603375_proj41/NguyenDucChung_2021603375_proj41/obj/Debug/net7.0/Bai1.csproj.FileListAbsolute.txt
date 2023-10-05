@@ -1,0 +1,15 @@
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\Bai1.exe
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\Bai1.deps.json
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\Bai1.runtimeconfig.json
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\Bai1.dll
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\Bai1.pdb
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.csproj.AssemblyReference.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.AssemblyInfoInputs.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.AssemblyInfo.cs
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.csproj.CoreCompileInputs.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.dll
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\refint\Bai1.dll
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.pdb
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\Bai1.genruntimeconfig.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\ref\Bai1.dll

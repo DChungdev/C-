@@ -1,0 +1,15 @@
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\bin\Debug\net7.0\Bai2.exe
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\bin\Debug\net7.0\Bai2.deps.json
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\bin\Debug\net7.0\Bai2.runtimeconfig.json
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\bin\Debug\net7.0\Bai2.dll
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\bin\Debug\net7.0\Bai2.pdb
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.csproj.AssemblyReference.cache
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.AssemblyInfoInputs.cache
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.AssemblyInfo.cs
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.csproj.CoreCompileInputs.cache
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.dll
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\refint\Bai2.dll
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.pdb
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\Bai2.genruntimeconfig.cache
+D:\C#\NguyenDucChung_2021603375_proj52\Bai2\obj\Debug\net7.0\ref\Bai2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NguyenDucChung_2021603375_proj41/1.0.0": {
+        "runtime": {
+          "NguyenDucChung_2021603375_proj41.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenDucChung_2021603375_proj41/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

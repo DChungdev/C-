@@ -1,0 +1,15 @@
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.csproj.AssemblyReference.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.AssemblyInfoInputs.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.AssemblyInfo.cs
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.csproj.CoreCompileInputs.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\NguyenDucChung_2021603375_proj41.exe
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\NguyenDucChung_2021603375_proj41.deps.json
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\NguyenDucChung_2021603375_proj41.runtimeconfig.json
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\NguyenDucChung_2021603375_proj41.dll
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\bin\Debug\net7.0\NguyenDucChung_2021603375_proj41.pdb
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.dll
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\refint\NguyenDucChung_2021603375_proj41.dll
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.pdb
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\NguyenDucChung_2021603375_proj41.genruntimeconfig.cache
+D:\C#\NguyenDucChung_2021603375_proj41\NguyenDucChung_2021603375_proj41\obj\Debug\net7.0\ref\NguyenDucChung_2021603375_proj41.dll
