@@ -1,0 +1,15 @@
+D:\C#\MinhHoaTX1\MinhHoaTX1\bin\Debug\net7.0\MinhHoaTX1.exe
+D:\C#\MinhHoaTX1\MinhHoaTX1\bin\Debug\net7.0\MinhHoaTX1.deps.json
+D:\C#\MinhHoaTX1\MinhHoaTX1\bin\Debug\net7.0\MinhHoaTX1.runtimeconfig.json
+D:\C#\MinhHoaTX1\MinhHoaTX1\bin\Debug\net7.0\MinhHoaTX1.dll
+D:\C#\MinhHoaTX1\MinhHoaTX1\bin\Debug\net7.0\MinhHoaTX1.pdb
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.csproj.AssemblyReference.cache
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.AssemblyInfoInputs.cache
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.AssemblyInfo.cs
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.csproj.CoreCompileInputs.cache
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.dll
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\refint\MinhHoaTX1.dll
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.pdb
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\MinhHoaTX1.genruntimeconfig.cache
+D:\C#\MinhHoaTX1\MinhHoaTX1\obj\Debug\net7.0\ref\MinhHoaTX1.dll
