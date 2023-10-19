@@ -1,0 +1,15 @@
+D:\C#\TX1\TX1\bin\Debug\net7.0\TX1.exe
+D:\C#\TX1\TX1\bin\Debug\net7.0\TX1.deps.json
+D:\C#\TX1\TX1\bin\Debug\net7.0\TX1.runtimeconfig.json
+D:\C#\TX1\TX1\bin\Debug\net7.0\TX1.dll
+D:\C#\TX1\TX1\bin\Debug\net7.0\TX1.pdb
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.csproj.AssemblyReference.cache
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.AssemblyInfoInputs.cache
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.AssemblyInfo.cs
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.csproj.CoreCompileInputs.cache
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.dll
+D:\C#\TX1\TX1\obj\Debug\net7.0\refint\TX1.dll
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.pdb
+D:\C#\TX1\TX1\obj\Debug\net7.0\TX1.genruntimeconfig.cache
+D:\C#\TX1\TX1\obj\Debug\net7.0\ref\TX1.dll
